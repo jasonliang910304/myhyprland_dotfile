@@ -2,18 +2,13 @@
 
 ### packages
 ```bash
-yay -S hyprland nvidia-open-dkms nvidia-utils egl-wayland xdg-desktop-portal-hyprland cmake meson spio
+yay -S hyprland nvidia-open-dkms nvidia-utils egl-wayland xdg-desktop-portal-hyprland 
 ```
 ```bash
 yay -S pipewire wireplumber plasma-polkit-agent qt5-wayland qt6-wayland grim slurp
 ```
 ```bash
-yay -S mako dunst waybar-git
-```
-```bash
-hyprpm add https://github.com/Duckonaut/split-monitor-workspaces # Add the plugin repository
-hyprpm enable split-monitor-workspaces # Enable the plugin
-hyprpm reload # Reload the plugins
+yay -S mako dunst waybar-git copyq udiskie
 ```
 
 ### reference 
