@@ -8,7 +8,7 @@ yay -S hyprland nvidia-open-dkms nvidia-utils egl-wayland xdg-desktop-portal-hyp
 yay -S pipewire wireplumber plasma-polkit-agent qt5-wayland qt6-wayland grim slurp
 ```
 ```bash
-yay -S mako dunst waybar-git copyq udiskie
+yay -S mako dunst waybar-git copyq udiskie xwaylandvideobridge-git hyprprop gamescope gamescope-plus
 ```
 
 ### reference 
