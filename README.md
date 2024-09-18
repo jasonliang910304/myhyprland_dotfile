@@ -11,7 +11,7 @@ yay -S pipewire wireplumber plasma-polkit-agent qt5-wayland qt6-wayland grim slu
 yay -S dunst waybar-git copyq udiskie xwaylandvideobridge-git hyprprop gamescope gamescope-plus
 ```
 ```bash
-yay -S fastfetch nwglook
+yay -S fastfetch nwglook lxappearance
 ```
 
 ### reference 
